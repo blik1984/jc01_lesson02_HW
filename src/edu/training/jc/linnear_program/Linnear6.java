@@ -2,7 +2,7 @@ package edu.training.jc.linnear_program;
 /**
  * Вычислить значение выражения по формуле (все переменные принимают действительные значения)
  */
-public class Linnear_6 {
+public class Linnear6 {
 
 	public static void main(String[] args) {
 		
