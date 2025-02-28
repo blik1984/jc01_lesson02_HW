@@ -4,7 +4,7 @@ package edu.training.jc.linnear_program;
  * Составить алгоритм нахождения среднего арифметического двух чисел
  */
 
-public class Linnear_3 {
+public class Linnear3 {
 
 	public static void main(String[] args) {
 		
