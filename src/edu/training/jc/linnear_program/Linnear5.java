@@ -2,7 +2,7 @@ package edu.training.jc.linnear_program;
 /**
  * Дан прямоугольник, ширина которого в два раза меньше длины. Найти площадь прямоугольника
  */
-public class Linnear_5 {
+public class Linnear5 {
 
 	public static void main(String[] args) {
 	
