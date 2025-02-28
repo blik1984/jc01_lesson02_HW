@@ -5,7 +5,7 @@ package edu.training.jc.linnear_program;
  * бидонах, если в каждом большом бидоне на 12 л. больше, чем в малом?
  */
 
-public class Linnear_4 {
+public class Linnear4 {
 
 	public static void main(String[] args) {
 		
